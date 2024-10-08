@@ -1,3 +1,7 @@
+* {
+    margin: 0;
+    padding: 0;
+}
 :root {
     --swiper-navigation-color: #54697A;
     --swiper-pagination-color: #54697A;
@@ -52,7 +56,8 @@ body {
 }
 .studies ul {
     line-height: 32px;
-    margin-left: -18px;
+    margin-left: 20px;
+    margin-top: 20px;
 }
 
 .news {
